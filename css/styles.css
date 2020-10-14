@@ -13,11 +13,9 @@ body {
     height: auto;
     margin-left: 25%;
     margin-right: auto;
-    margin-top: 100px;
     margin-bottom: 100px; }
   body iframe {
     display: block;
-    margin-top: 100px;
     margin-bottom: 100px;
     margin-left: auto;
     margin-right: auto;
@@ -30,6 +28,18 @@ body {
     margin-left: 15%;
     margin-right: 15%;
     font-size: 45px; }
+  body section {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 15px; }
+  body article {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 15px; }
   body ol {
     color: white;
     text-align: center;
